@@ -1,0 +1,51 @@
+h1 {
+  border-radius: 10px;
+  right: 20px;
+}
+h2 {
+  font-size: 19pt;
+}
+html {
+  background-color: white;
+}
+hr {
+  height:5px;
+  color: black;
+  width: 100%;
+  margin-left: auto
+  margin-right: auto;
+  background-color: black;
+}
+p {
+  padding-right: 100px;
+  margin-right: 500px;
+  font-size: 14pt;
+  font-family: 'Indie Flower', cursive;
+}
+#elektro {
+  float: left;
+  width: 300px;
+  height: 450px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+.underline {
+  text-decoration: underline;
+}
+.rainbow {
+  text-transform: bold;
+  color: rainbow;
+  background: linear-gradient(to right, red, orange, yellow, green, blue, purple, lightblue);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+  text-shadow: 3px 3px black;
+}
+* {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: bold;
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: aqua;
+
+}
